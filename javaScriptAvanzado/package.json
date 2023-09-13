@@ -1,0 +1,15 @@
+{
+  "name": "javascriptavanzado",
+  "version": "1.0.0",
+  "description": "practica de node y de npm",
+  "main": "Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nizaye Alvarado",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "picocolors": "^1.0.0"
+  }
+}
